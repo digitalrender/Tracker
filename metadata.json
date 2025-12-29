@@ -1,0 +1,7 @@
+{
+  "name": "ItaloSynth Tracker 80",
+  "description": "A retro 80s-inspired music tracker for creating Italo Disco hits. Features a pattern editor, sample library, and audio visualizer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
